@@ -1,0 +1,33 @@
+{
+  "name": "angular-weblineindia-url",
+  "version": "1.0.0",
+  "description": "An AngularJS based URL component provides option to add url (like Instagram url, Facebook url, web url, etc.) with validation. The URL value is automatically validated on change event. You can even disable url field using disable props",
+  "author": "weblineindia",
+  "license": "MIT",
+  "repository": "https://github.com/weblineindia/AngularJS-URL-Component",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/angular-weblineindia-url.umd.js",
+  "module": "fesm5/angular-weblineindia-url.js",
+  "es2015": "fesm2015/angular-weblineindia-url.js",
+  "esm5": "esm5/angular-weblineindia-url.js",
+  "esm2015": "esm2015/angular-weblineindia-url.js",
+  "fesm5": "fesm5/angular-weblineindia-url.js",
+  "fesm2015": "fesm2015/angular-weblineindia-url.js",
+  "typings": "angular-weblineindia-url.d.ts",
+  "metadata": "angular-weblineindia-url.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "keywords": [
+    "angular-weblineindia-url",
+    "url",
+    "angular components",
+    "angularjs",
+    "angularjs component"
+  ]
+}
